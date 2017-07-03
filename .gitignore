@@ -1,0 +1,6 @@
+data
+checkpoints/vgg_16.ckpt
+**/*/.ipynb_checkpoints
+.DS_Store
+**/*/*.pyc
+notebooks/logs
